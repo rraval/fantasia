@@ -1,5 +1,0 @@
-## Percussion
-
-## Strings
-
-## Wind

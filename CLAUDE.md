@@ -63,19 +63,16 @@ Use YAML frontmatter for metadata:
 
 ```markdown
 ---
-title: Page Title
 tags:
-  - location
-  - faction
-draft: false
+  - orc (or elf, human, dwarf, etc)
+aliases:
+  - Some name
+  - Another name
 ---
 ```
 
 Common fields:
-- `title`: Page title (defaults to filename if omitted)
 - `tags`: List of tags for organization
-- `draft`: Set to `true` to hide from published site
-- `description`: For link previews
 - `aliases`: Alternative names for this page
 
 ### Callouts
@@ -89,14 +86,189 @@ Use Obsidian-style callouts for special content:
 
 ### Content Organization Patterns
 
-- **World-building** goes in `content/World/`
-- **NPCs** go into `content/NPC/`.
-- **PCs** go into `content/PC/`.
-- **Songs** go into `content/Song`.
+- **Concepts** (cosmology, forces, cycles) go in `content/Concept/`
+- **Events** (major campaign events) go in `content/Event/`
+- **Items** (magical items, artifacts) go in `content/Item/`
+- **Locations** (cities, buildings, landmarks) go in `content/Location/`
+- **NPCs** go into `content/NPC/`
+- **PCs** go into `content/PC/`
+- **Songs** go into `content/Song/`
 - **Index/home page** is `content/index.md` (campaign summary and current state)
 - Use folders to group related content
 - Pages should be noun-focused (places, people, things, concepts)
 - Avoid creating pages for common words; use descriptive multi-word titles
+
+## Writing Style Guide
+
+### Chronology and Timeline Sections
+
+**Use "## Chronology" for:**
+- NPC files
+- Location files
+- Item files
+
+**Use "## Timeline" for:**
+- Event files only
+
+**Subsection formatting:**
+```markdown
+## Chronology
+
+### Major Event Name
+
+- Bullet point narrative
+- Another detail
+- Outcome
+
+### Next Event
+
+- More narrative
+```
+
+**Key principles:**
+- Use `###` headers for major subsections (not bold text)
+- Event names should be descriptive (e.g., "### The Ball Massacre" not "### Session 12")
+- Organize chronologically within the section
+
+### Timeline References
+
+**Use event anchors instead of technical notation:**
+
+Good:
+- "During [[Material Plane Riots]]"
+- "After [[The Intervals]]"
+- "Two full moons before [[Material Plane Riots]]"
+
+Avoid:
+- "T+0" or "T+2 weeks"
+- Session numbers as primary organization (these are DM-specific)
+- Vague temporal references without event links
+
+**Link to Event pages** to provide temporal context and enable cross-referencing.
+
+### Section Ordering
+
+**For NPC files:**
+1. Frontmatter (tags, aliases)
+2. Brief intro paragraph (1-2 sentences)
+3. `## Description` - Physical appearance, role, key traits
+5. `## Chronology` - Events in order
+6. `## Connections` - Related NPCs, locations, items
+
+**For Location files:**
+1. Frontmatter
+2. Brief intro paragraph
+3. `## Description` - Geographic context, features, atmosphere
+5. `## Chronology` - What happened here
+7. `## Connections` - Links to other locations, travel routes
+
+**For Item files:**
+1. Frontmatter
+2. Brief intro paragraph
+3. `## Description` - What it is, basic appearance
+4. `## Mechanics` - How it works (can use bold for labels like "**Activation:**")
+5. `## Chronology` - Discovery, use, history
+6. `## Connections` - Related characters, locations, events
+
+**For Event files:**
+1. Frontmatter
+2. Brief intro paragraph summarizing the event
+3. `## Timeline` - When things happened
+4. `## Events` - What happened (with ### subsections)
+5. `## Aftermath` - Consequences and outcomes
+6. `## Connections` - Related events, people, places
+
+### Bold Text Usage
+
+**Use bold text for:**
+- Inline labels in technical descriptions: `**Function:** Creates portals`
+- Emphasis within narrative: `**critically important detail**`
+- Labels in lists: `**Material Plane:** baseline time flow`
+
+**Do NOT use bold text for:**
+- Section headers (use `###` instead)
+- Event names in chronology (use `###` instead)
+- Replacing proper header hierarchy
+
+### Narrative Voice and Tense
+
+**Past tense for completed events:**
+- "Party rescued children from burning orphanage"
+- "Maurice revealed his connection to The Binding"
+- "Queen hosted a ball to establish peace"
+
+**Present tense for current state:**
+- "Piano Man's reign is crumbling"
+- "City shows signs of decay"
+- "The Dress of Love is a magical garment"
+
+**Third person perspective:**
+- Write from neutral narrator viewpoint
+- Avoid first person ("we discovered") unless in quoted text
+- Keep focus on campaign events and characters
+
+### Wikilink Patterns
+
+**Always link:**
+- First mention of major NPCs, locations, items in each section
+- Key events that provide temporal context
+- Related concepts (Forces, Planes, etc.)
+
+**Use aliases for alternate names:**
+```markdown
+[[Piano Man|Man of Strings]]
+[[Maurice|The Gambler]]
+[[Princess of Diamonds|Bonnie]]
+```
+
+**Section references for specific content:**
+```markdown
+[[Forces#Percussion|drums of war]]
+[[Material Plane Riots#The Trial]]
+```
+
+### Frontmatter Standards
+
+**Required fields:**
+```yaml
+---
+tags:
+  - primary-category
+  - specific-tags
+---
+```
+
+**Optional but recommended:**
+```yaml
+---
+title: Display Title (if different from filename)
+tags:
+  - category
+aliases:
+  - Alternate Name
+  - Another Alias
+description: Brief description for link previews
+---
+```
+
+**Common tag patterns:**
+- Locations: `location`, `city`, `material-plane` or `feywild`
+- NPCs: race, class
+- Items: related concepts, e.g. `transposition`
+- Events: location, plane
+- PCs: race, class
+
+### Callout Usage
+
+Use callouts sparingly for:
+- Information shared with players (use `> [!info]`)
+- Meta-information or trivia (use `> [!INFO] Trivia`)
+- Out-of-character notes about rules or mechanics
+
+**Do not use callouts for:**
+- Standard narrative content
+- Chronology sections
+- Regular descriptions
 
 ## Ignored Patterns
 

@@ -14,10 +14,10 @@ The age was not kind.
 Famine. Pestilence. Disease.
 Until the Belle forged the land
 under her regime of “Take, or die”.
-But the [[World/Forces#Percussion|drums of war]] did not beat forever.
+But the [[Forces#Percussion|drums of war]] did not beat forever.
 The chorus came again.
 
-The [[Piano Man|man]] of [[World/Forces#strings|strings]] wielded new weapons.
+The [[Piano Man|man]] of [[Forces#Strings|strings]] wielded new weapons.
 Feudalism. Prosperity. Diplomacy.
 The warlord was overthrown,
 and the age of order ushered in.
@@ -26,5 +26,5 @@ But time beats all measures.
 The orcs march to the rhythm of war again.
 The elves retreat to their baroque kingdoms.
 The dwarves hoard instead of selling out.
-The [[World/Forces#Wind|winds of change]] are upon us,
+The [[Forces#Wind|winds of change]] are upon us,
 and the chorus could come again.
