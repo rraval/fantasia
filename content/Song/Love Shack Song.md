@@ -1,4 +1,4 @@
-"Love Shack" by The B-52's is the namesake for the [[Love Shack]], the cottage where [[Rose]]'s ghost haunted while waiting for [[Jack]].
+"Love Shack" by The B-52's is the namesake for the [[Song/Love Shack Song]], the cottage where [[Rose]]'s ghost haunted while waiting for [[Jack]].
 
 ## Description
 
@@ -6,7 +6,7 @@ The song's lyrics "The love shack is a little old place where we can get togethe
 
 ## Connections
 
-- [[Love Shack]] - Cottage named after this song
+- [[Song/Love Shack Song]] - Cottage named after this song
 - [[Rose]] - Ghost who haunted the Love Shack waiting for Jack
 - [[Jack]] - Rose's lost love
 - [[Dress of Love]] - Created after Rose found peace at the Love Shack
