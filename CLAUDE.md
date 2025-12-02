@@ -227,6 +227,11 @@ Avoid:
 [[Material Plane Riots#The Trial]]
 ```
 
+**Song references:**
+- Link songs directly using wikilinks: `[[Africa]]`, `[[Piano Man]]`
+- Do NOT use quotes around song links: ~~`"[[Africa]]"`~~ ❌
+- Use quotes only for non-linked song titles or lyrics
+
 ### Frontmatter Standards
 
 **Required fields:**
@@ -257,6 +262,25 @@ description: Brief description for link previews
 - Items: related concepts, e.g. `transposition`
 - Events: location, plane
 - PCs: race, class
+
+### Tag Usage Guidelines
+
+**Keep tags minimal and meaningful:**
+- Use 2-4 tags per page maximum
+- Tags should aid navigation and discovery, not describe every attribute
+- Prefer specific, unique tags over generic ones
+
+**Common patterns:**
+- NPCs: race (if relevant to story), class (if defined)
+- Locations: `location`, plane designation (`material-plane`, `feywild`, etc.)
+- Items: primary concept or mechanic (`transposition`, `artifact`)
+- Events: primary location or plane where event occurred
+- PCs: race, class
+
+**Avoid:**
+- Over-tagging with every attribute (don't tag "strong", "magic", "important", etc.)
+- Duplicate information already in filename or content
+- Tags that would apply to most pages
 
 ### Callout Usage
 
