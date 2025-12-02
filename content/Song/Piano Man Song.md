@@ -1,4 +1,4 @@
-"Piano Man" by Billy Joel is a signature song that represents [[Piano Man|the Piano Man]], ruler of the strings and bringer of the age of reason.
+"Piano Man" by Billy Joel is a signature song that represents [[Song/Piano Man Song|the Piano Man]], ruler of the strings and bringer of the age of reason.
 
 ## Description
 
@@ -6,6 +6,6 @@ The song's themes of memory and storytelling connect deeply to the Piano Man's c
 
 ## Connections
 
-- [[Piano Man]] - The character's alias comes from this song
+- [[Song/Piano Man Song]] - The character's alias comes from this song
 - [[Tensegrity]] - Where the Piano Man sang this song during the prophecy
 - [[Augur of Melodies]] - Forced to prophesy while Piano Man played and sang
