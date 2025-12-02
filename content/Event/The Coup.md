@@ -66,7 +66,7 @@ After the party became champions of [[The Intervals]], they found themselves ent
 - Piano Man's physical presence gone, but soul trapped in knife
 
 **Party's Dream:**
-- Party entered [[Planes#Orchestral|Orchestral Plane]] (dream plane)
+- Party entered [[Orchestral Plane]] (dream plane)
 - Appeared as giant orchestra hall
 - Met fragmented version of Piano Man in strings section
 - Piano Man had incoherent ramblings and no memory of recent events

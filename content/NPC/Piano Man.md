@@ -26,7 +26,7 @@ The Piano Man (also called the Man of Strings) is the frail but powerful ruler w
 ## History
 
 - United the seven nation army to organize resistance against [[Belle]]
-- Eradicated [[Belle]]'s influence from all 7 [[Planes]] of existence
+- Eradicated [[Belle]]'s influence from all 7 [[Planar System|planes]] of existence
 - Brought about the "age of reason" with diplomacy and cooperation
 - Established [[Tensegrity]], a singular stronghold with presence in every plane
 - Reign is now crumbling and ending

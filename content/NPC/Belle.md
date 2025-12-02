@@ -19,7 +19,7 @@ As explained by the [[Queen of Hearts]].
 
 ### Age of the Belle
 
-- Ruled over all 7 [[Planes]] of existence
+- Ruled over all 7 [[Planar System|planes]] of existence
 - "Ravaged the land" during their reign
 - Contact between planes was common during this era
 - Reign characterized by warfare and conquest
