@@ -35,7 +35,6 @@ Percussion represents war, violence, chaos, and raw physical force. Associated w
 - Drums mentioned in [[Material Plane Riots|riots]]: "You cannot hear the drums in your head?"
 - [[Belle]]'s bound power possibly resurging
 - In Orchestral Plane dream: drums section showed "ripped portals (2,3,4,5)"
-- One cord seen as "weak" (possibly Percussion's)
 
 ### Representatives
 
@@ -43,7 +42,6 @@ Percussion represents war, violence, chaos, and raw physical force. Associated w
 - [[Drummer Boy]] - undead child with drum powers
 - Red caps - violent fae who rose during riots
 - "Tambourine man" - previous percussion champion before Piano Man
-- Orcs associated with Percussion force
 
 ## Strings
 
@@ -89,10 +87,7 @@ Strings represents reason, order, diplomacy, and structured civilization. Associ
 ### Representatives
 
 - [[Piano Man]]/Man of Strings - frail ruler with giant piano
-- Iluva - woman violin avatar (dream plane)
-- Giant Double Bass avatar (dream plane)
 - [[Elyas]] - elven supporter (now disillusioned)
-- Structured civilization and law
 
 ## Wind
 
@@ -109,24 +104,18 @@ Wind represents change, transformation, freedom, and the unknown future. Associa
 
 ### Prophecy
 
-**Augur's Proclamation (Session 23):**
+**Augur's Proclamation:**
 - "The answer, my friend, is blowin' in the wind"
 - Wind champion prophesied to rise
 - Will succeed Strings age
 - [[Piano Man]] mused: "it can't be worse than the tambourine man"
 
 **Current Signs:**
-- [[Cory|Corminar]] recognized as "Tide Turner, Champion of the Undertow"
-- Water elementals gathering to behold him
 - Revolution brewing in [[Paradise City]]
 - Winds section in Orchestral Plane dream: "pristine"
-- Party members possibly connected to Wind
 
 ### Potential Representatives
 
-- [[Cory]]/Corminar - "Tide Turner, Champion of the Undertow"
-- Water elementals recognizing new power
-- Party members (if they represent change/outside force)
 - Unknown wind champion yet to fully emerge
 
 ### Future Age
@@ -148,24 +137,3 @@ The three forces cycle through ages in an endless rotation called the [[Cantum c
 4. **Return to Percussion?** → Cycle continues?
 
 [[Maurice]] is bound as conductor of this cycle, seeking escape by having party destroy the instruments that perpetuate it.
-
-## Cosmic Structure
-
-**In Orchestral Plane:**
-- Appears as giant orchestra hall
-- Strings section closest to conductor
-- Piano to the left
-- Woodwinds and brass top central
-- Percussion top right
-- Three cords: 2 strong (Strings and Wind?), 1 weak (Percussion?)
-- Drums showed ripped portals
-- Conductor section: pile of bodies (Maurice's burden?)
-
-## Notes
-
-The three Forces represent fundamental cosmic principles in constant tension and cycle. No force is purely good or evil - each has necessary role:
-- **Percussion:** Provides strength, survival, primal energy
-- **Strings:** Provides order, peace, structure
-- **Wind:** Provides change, adaptation, renewal
-
-The campaign takes place during transition from Strings to Wind, explaining the chaos and instability.

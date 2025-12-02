@@ -4,7 +4,7 @@
 In the beginning there was silence.
 Fermata. Pausa. Da capo.
 Cautious whispers became clamorous voices,
-harmonizing into the briefest cantus.
+harmonizing into the [[Cantum cycle|briefest cantus]].
 A deal was offered, a deal was struck.
 From the exordium came the lands,
 the first verse begat the creatures,
@@ -12,7 +12,7 @@ and from the chorus flowed the chaos.
 
 The age was not kind.
 Famine. Pestilence. Disease.
-Until the Belle forged the land
+Until the [[Belle]] forged the land
 under her regime of “Take, or die”.
 But the [[Forces#Percussion|drums of war]] did not beat forever.
 The chorus came again.
