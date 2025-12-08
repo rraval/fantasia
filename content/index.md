@@ -2,7 +2,7 @@
 title: Liner Notes
 ---
 
-Fantasia is a D&D 5e campaign inspired by western pop music. Season 1 played out over 27 mainline sessions and 4 one shots from spring 2023 - spring 2024. Season 2 is imminent.
+Fantasia is a D&D 5e campaign inspired by popular western music. Season 1 played out over 27 mainline sessions and 4 one shots from spring 2023 - spring 2024. Season 2 is imminent.
 
 ## Catch Up
 

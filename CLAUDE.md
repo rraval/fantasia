@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Fantasia is a D&D 5e campaign setting inspired by western pop music, published as a digital garden using Quartz v4. The primary purpose of this repository is to document the campaign world, characters, locations, and lore.
+Fantasia is a D&D 5e campaign setting inspired by popular western music, published as a digital garden using Quartz v4. The primary purpose of this repository is to document the campaign world, characters, locations, and lore.
 
 ## Build Commands
 
