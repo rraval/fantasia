@@ -83,3 +83,11 @@ Maurice, also known as "The Joker", is an immortal conductor who bound the [[Can
 - Made his deal: destroy the instruments to break the cycle and return home
 - Confirmed he is the conductor who bound the [[Cantum cycle]]
 - Confirmed he founded [[The Synth]] but they've since diverged
+
+### Escape from [[Paradise City]]
+
+- Drove wagon giving party escape from collapsing [[Tensegrity]]
+- Party in back of wagon as [[Paradise City]] disintegrated
+- [[Louis Orrai]] noticed the [[Knife of Transposition]] glowing
+- Louis examined the dagger
+- Party suddenly pulled into the knife itself

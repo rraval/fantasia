@@ -77,6 +77,42 @@ The Knife of Transposition is [[Maurice]]'s dagger that can open portals between
 - Quoted [[Fuck You]] as his final statement
 - Knife now contains at least part of his soul
 
+**Journey Inside the Knife:**
+- Party riding in [[Maurice]]'s wagon after escaping [[Tensegrity]]
+- [[Louis Orrai]] noticed the dagger glowing and examined it
+- Party suddenly pulled into the knife itself
+- Found themselves in small translucent cavern with foggy edges
+- Could see the caravan through walls of the space
+
+**Encounter with [[Piano Man]]:**
+- Heard solitary figure playing [[Tumbi]]
+- Half of Piano Man performing [[Yesterday]]: "Yesterday... all my troubles were so far away"
+- [[Helia]] accidentally destroyed [[Tumbi]] with fireball
+- Piano Man upset, asked party to fix his only instrument
+- [[Helia]] attempted *mend* but magic too strong to restore string
+- [[Velden]] had some knowledge of Tumbi but insufficient to repair
+- Piano Man gave up, attempted to convince party to restore him to power
+- Party unconvinced and refused to be his champions
+- Dismissed them, pointing at cylindrical elevator
+
+**Musical Scale Elevators:**
+- Elevators had one small button (down) and one large button (double down)
+- System based on major scale intervals: whole-whole-half-whole-whole-whole-half
+- Pressing double down prompted voice: "major"
+- Party traveled through multiple levels:
+  - Level 2 of 7: Desert level full of scorpions (passed through)
+  - Level 3 of 7: Forest level full of creatures (passed through)
+  - Level 4 of 7: Empty room with arrows labeled "Shadowfell" (down) and "Material" (up)
+  - Continued through remaining intervals following major scale pattern
+- [[Velden]] managed to rotate single button to reverse direction
+- Party quickly navigated whole-whole-whole-half sequence
+- Bypassed lovingly crafted levels full of monsters and encounters
+
+**Exit to [[Shadowfell]]:**
+- Final elevator embedded into ground at bottom
+- Emerged in mountainous region with perpetual twilight
+- Arrived in [[Shadowfell]] plane
+
 ## Connections
 
 - Similar principle to [[Tinkers Guild]]'s [[instrument panel]]

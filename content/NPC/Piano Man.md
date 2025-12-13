@@ -69,3 +69,19 @@ The Piano Man (also called the Man of Strings) is the frail but powerful ruler w
 - Party entered Orchestral Plane (dream plane) which appears as an orchestra
 - Met half of Piano Man
 - Showed the dagger to strings section
+
+### Encounter Inside the [[Knife of Transposition]]
+
+- Party pulled into the [[Knife of Transposition]] while in [[Maurice]]'s wagon
+- Inside found small translucent cavern with foggy edges
+- Half of Piano Man confined within, playing [[Tumbi]]
+- Performed [[Yesterday]]: "Yesterday... all my troubles were so far away"
+- [[Helia]] accidentally destroyed the [[Tumbi]] with fireball
+- Upset at losing his only instrument, asked party to repair it
+- [[Helia]]'s *mend* spell insufficient due to strong magic in instrument
+- [[Velden]]'s knowledge of Tumbi also insufficient for repair
+- Gave up on the instrument and attempted to recruit party
+- Tried to convince party to restore him to power, to be his champions
+- Party refused and remained unconvinced
+- Dismissed them in frustration, pointed to cylindrical elevator
+- Wished them luck getting out of the knife
