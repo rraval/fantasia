@@ -4,3 +4,7 @@ tags:
 ---
 
 Harloc is a cleric.
+
+![[HarlocColour.jpg]]
+
+![[HarlocStomp.jpg]]
