@@ -1,7 +1,6 @@
 ---
 title: The Roly Poly Little Bat Faced Girl
 tags:
-  - location
   - bar
   - feywild
 ---

@@ -7,14 +7,14 @@ As they approach the city, they see patchy parts covered in dense jungle but oth
 The south gate is completely overrun.
 
 They start circling the city clockwise and come across a destroyed section of the city wall. As they investigate, they see:
-- A human hanging upside down stuck in a web saying "Get down, gotta get down". #song/JungleBoogie
+- A human hanging upside down stuck in a web saying "Get down, gotta get down". [[Jungle Boogie]]
 - A giant spider fighting 3 giant frogs. One of the frogs is trapped in secondary webbing.
 
-Helia uses produce flame to knock burn the web around [[Kool]].
+[[Helia Oriela|Helia]] uses produce flame to knock burn the web around [[Kool]].
 
 The spider becomes aware of the party and retreats to investigate. Despite Ev's illusions, combat between the spider and the frogs is initiated.
 
-Helia burns the last strands of the web holding Kool, who starts falling. Cory catches him.
+Helia burns the last strands of the web holding Kool, who starts falling. [[Cory]] catches him.
 
 The party dispatches the spider and all 3 frogs, even as the last one tried to flee.
 
@@ -26,7 +26,7 @@ Kool explains that he was hiding from the riots with a few members of his gang a
 
 As the party heads in deeper, they are being stalked by a dryad leaping from tree to tree. Cory asks "what manner of beast are ye?"
 
-Combat is initiated, the dryad wants to watch them bleed. It continues to taunt them, "welcome to the jungle baby, you're gonna die". #song/WelcomeToTheJungle
+Combat is initiated, the dryad wants to watch them bleed. It continues to taunt them, "welcome to the jungle baby, you're gonna die". [[Welcome To The Jungle]]
 
 A quickling joins the fight.
 

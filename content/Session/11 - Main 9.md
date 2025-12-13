@@ -1,6 +1,6 @@
 As the sun rises, the threads of the dress wiggle, then vibrate, then rip apart into seams that rush into the orb.
 
-Hanzo arrives, unconscious, tied onto a horse's saddle on his donkey. Stabbed into the pommel with Maurice's knife is a scroll case.
+[[Hanzo]] arrives, unconscious, tied onto a horse's saddle on his donkey. Stabbed into the pommel with [[Maurice]]'s knife is a scroll case.
 
 Lots of catching up between party and Hanzo.
 
@@ -17,13 +17,13 @@ Lots of catching up between party and Hanzo.
 > Your party is playing with the Queen of Hearts,
 > not knowing that it isn't really smart.
 > I guess I'm not the only fool here.
-> #songs/QueenOfHearts
+> [[Queen of Hearts]]
 >
 > Take your party to this party,
 > but watch before you act,
 > as wise men say,
 > only fools rush in.
-> #songs/CantHelpFallingInLove
+> [[Can't Help Falling In Love]]
 
 > [!note] Royal Ball
 > The 7♣ ️and 2♦️ are cordially invited to a royal ball on the night of the new moon.

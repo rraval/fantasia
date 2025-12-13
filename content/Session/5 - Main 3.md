@@ -1,25 +1,25 @@
-[[Moonstone ear ring]] from the gnoll. Harloc casts detect magic as a ritual and notes that it is magical.
+[[Moonstone ear ring]] from the gnoll. [[Harloc]] casts detect magic as a ritual and notes that it is magical.
 
 1d4 temp hit points from the Ramen.
 
 Children are playing discover Maurice dead with note. Child starts screaming.
 
-Cory investigates the body and finds Maurice has been stabbed with his own knife with a note:
+[[Cory]] investigates the body and finds [[Maurice]] has been stabbed with his own knife with a note:
 
-> GOTTA BE ELSEWHERE. DON'T YOU WORRY, I'M RIGHT HERE AT HOME. #song/TheJoker
+> GOTTA BE ELSEWHERE. DON'T YOU WORRY, I'M RIGHT HERE AT HOME. [[The Joker]]
 
-Hanzo and Harloc loot Maurice's body. Hanzo takes Maurice's dagger while Harloc takes the lute.
+[[Hanzo]] and Harloc loot Maurice's body. Hanzo takes Maurice's dagger while Harloc takes the lute.
 
 3 commoners approach, ask what happened in the city. A very confusing sequence of events is related.
 
 > - "There's something happening here, what it is isn't exactly clear."
 > - Says the grouchy man holding a crossbow
 > - "Be wary, always be wary"
-> #song/ForWhatItsWorth
+> [[For What It's Worth]]
 
 The earth moves as buildings collapse. Vines shoot out of the ground and take over what remains standing in the city. In an instant, the city is overrun by dense forestry.
 
-Party moves into the mining town of [[Ode]], getting there around noon.
+[[Helia Oriela|Helia]] and the party move into the mining town of [[Ode]], getting there around noon.
 
 They see [[Viscount Bridgerton]] horse. Looting it reveals a ciphered note.
 
@@ -29,12 +29,12 @@ They pick up some town gossip:
 - The local religion of minism is not well regarded but they get mixed answers about where people meet ([[Cult of Darkness]]).
 - There are some rumors about bad things happening inside the mines
 
-Cory, Ev, and Harloc go inside [[The Lone Beatle]] and find the viscount and his servant at the back booth with only the barkeeper there for company
+Cory, [[Ev]], and Harloc go inside [[The Lone Beatle]] and find the viscount and his servant at the back booth with only the barkeeper there for company
 
 Drinks start flowing freely. The viscount reveals:
 - He had planned to leave the city but did not expect the riots
 - He thought that the people were generally content and that there was no reason to riot (something later backed up by his servant)
-- He was stopped by the royal guard holding insignias by the [[man of strings]]
+- He was stopped by the royal guard holding insignias by the [[Piano Man|man of strings]]
 - [[The Leader]] is a small time figure not worthy of attention.
 
 Hanzo and Helia come back to the inn.

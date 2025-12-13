@@ -13,7 +13,7 @@ Darkness outside 20ft torch radius
 
 Party introduces themselves as researchers exploring these caves.
 
-Ground trembles, skeletons start rising out of the ground #songs/SpookySpookySkeletons
+Ground trembles, skeletons start rising out of the ground [[Spooky Scary Skeletons]]
 
 Party initially starts fighting, but more enemies arrive (Minotaur Skeleton, Warhorse Skeleton). Skeletons they kill revive after a turn.
 
@@ -21,7 +21,7 @@ With the arrival of a flameskull, the party starts running deeper into the caves
 
 ## (3) Behold, the bad moon rising...
 
-#songs/BadMoonRising
+[[Bad Moon Rising]]
 
 Golden red moon, unnatural since there should be no moon
 Earthquakes and lightning, storm approaching.

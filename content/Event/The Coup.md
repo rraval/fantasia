@@ -2,6 +2,7 @@
 tags:
   - material-plane
   - tensegrity
+  - rebellion
 ---
 
 The Coup was an attempt by [[Uptown Girl]], [[Amras]], and [[Elyas]]' elven forces to overthrow the [[Piano Man]] after [[The Intervals]], which resulted in Piano Man's capture through the [[Knife of Transposition]].

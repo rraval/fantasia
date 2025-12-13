@@ -1,5 +1,7 @@
 ---
 title: Maurice
+tags:
+  - goblin
 aliases:
   - The Joker
   - The Gambler

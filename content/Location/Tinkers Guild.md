@@ -1,7 +1,6 @@
 ---
 title: Tinkers Guild
 tags:
-  - location
   - lyric
 ---
 

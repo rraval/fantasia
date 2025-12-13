@@ -3,6 +3,7 @@ title: Material Plane Riots
 tags:
   - material-plane
   - lyric
+  - rebellion
 ---
 
 The Material Plane Riots were massive civil unrest in [[Lyric]] that occurred the night before the [[Transposition Event]], marking the beginning of the campaign.

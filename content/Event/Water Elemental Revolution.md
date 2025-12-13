@@ -1,6 +1,7 @@
 ---
 tags:
   - paradise-city
+  - rebellion
 ---
 
 The Water Elemental Revolution is an uprising in [[Paradise City]] instigated by [[Cory|Corminar]], who was recognized by water elementals as the "Tide Turner, Champion of the Undertow."

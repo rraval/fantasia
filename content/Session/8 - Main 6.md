@@ -1,8 +1,8 @@
 The party long rests into the morning.
 
-Helia attempts to divine something about Louis: she fails and gets a drawing with 2 triangle towers, a fire, and Louis in a wizard hat.
+[[Helia Oriela|Helia]] attempts to divine something about [[Louis Orrai|Louis]]: she fails and gets a drawing with 2 triangle towers, a fire, and Louis in a wizard hat.
 
-As the party awakens, they realize that Ev is missing. She had taken the last watch. They find a hastily written note that explains "MY PATRON NEEDS ME".
+As the party awakens, they realize that [[Ev]] is missing. She had taken the last watch. They find a hastily written note that explains "MY PATRON NEEDS ME".
 
 The party continues their trek towards the well in a sneaky fashion.
 

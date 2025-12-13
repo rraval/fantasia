@@ -1,6 +1,6 @@
 ---
 tags:
-  - planes
+  - plane
 aliases:
   - Planes
 ---

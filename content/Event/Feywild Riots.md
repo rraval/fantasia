@@ -2,6 +2,7 @@
 tags:
   - feywild
   - city-of-hearts
+  - rebellion
 ---
 
 The Feywild Riots occurred two full moons before the [[Material Plane Riots]], resulting in red caps becoming a dominant political force in the Feywild.

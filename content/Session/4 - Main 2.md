@@ -1,8 +1,8 @@
-Hanzo makes sushi with the Meenlock meat and distributes it around.
+[[Hanzo]] makes sushi with the Meenlock meat and distributes it around.
 
 Met [[Maurice]], who mentioned:
 - "You cannot hear the drums in your head? Why do you think the city is on fire!"
-- Took a liking to Harloc, surprised he hasn't been claimed yet. Asks if he's seen lots of rats recently.
+- Took a liking to [[Harloc]], surprised he hasn't been claimed yet. Asks if he's seen lots of rats recently.
 - Joins the party
 
 >   - All along the watchtower
@@ -11,7 +11,7 @@ Met [[Maurice]], who mentioned:
 > 		  - "Looks like a businessman, the plowmen will come next"
 > 		  - "There's too much confusion"
 > 	  - "Let's not talk falsely now, the hour's getting late"
-#song/AllAlongTheWatchtower
+[[All Along The Watchtower]]
 
 The party approach the city gates. They see a 2 mounted men being denied exit from the city.
 - One of the mounted men is reserved and dressed in a rich fine cloak
@@ -37,10 +37,10 @@ Hanzo casts thaumaturgy again to close the gate behind them. The guard at the ba
 
 As the party gets to the outskirts, they start setting up camp in a wooded area. However they soon hear a disturbance with howls and shaking trees.
 
-Helia (or Cory??) investigates and finds 3 gnolls digging into a deer corpse. They engage combat:
-- Maurice casts ??? and causes 1 gnoll to double over laughing
+[[Helia Oriela|Helia]] investigates and finds 3 gnolls digging into a deer corpse. They engage combat:
+- [[Maurice]] casts ??? and causes 1 gnoll to double over laughing
 - Helia entangles all 3 gnolls
-- Ev casts fire spell in cone and does a ton of damage
+- [[Ev]] casts fire spell in cone and does a ton of damage
 
 As the party is fighting these gnolls, they hear a big howling and rustling coming from the bushes.
 
