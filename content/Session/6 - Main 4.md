@@ -1,4 +1,4 @@
-See [[Ciphered Note in Ode]] stolen from [[Viscount Bridgerton]]'s saddle bags.
+See [[Item/Ciphered Note in Ode]] stolen from [[Viscount Bridgerton]]'s saddle bags.
 
 Chest from Bridgerton's rooms contains [[Pan Flute]] but rigged with gem stones, lenses, and mechanical contraptions. Not intrinsically magical, but resonates with magic. Blowing into the flute does nothing, the holes appear to be blocked in some way.
 
@@ -36,7 +36,7 @@ The goblin boss disengages as they were not expecting resistance. The party conv
 
 300XP for the party.
 
-Cory thinks they should just leave David to his own failings. After bartering with his brothers, they get offered [[The Blane Map]].
+Cory thinks they should just leave David to his own failings. After bartering with his brothers, they get offered [[Item/The Blane Map]].
 
 The party picks up David's trail and the goblin boss is able to deduce the lair from the direction.
 
@@ -50,4 +50,4 @@ The party spends a few hours digging out of the rock fall. They find the goblin 
 
 The party leave David tied up and quickly return to the grove. They elect to have a shotgun wedding with Cory officiating.
 
-In exchange for returning (and marrying) David, the party receives [[The Blane Map]]. They warn the halflings about a potential Goblin attack. They go a short distance away from the grove and begin resting.
+In exchange for returning (and marrying) David, the party receives [[Item/The Blane Map]]. They warn the halflings about a potential Goblin attack. They go a short distance away from the grove and begin resting.

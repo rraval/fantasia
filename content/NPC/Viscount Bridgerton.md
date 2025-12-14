@@ -21,7 +21,7 @@ Viscount Bridgerton is a corrupt noble who sold orphan children to the [[Cult of
 
 ### Discovery
 
-- Party stole [[Ciphered Note in Ode]] from Viscount's saddle bags
+- Party stole [[Item/Ciphered Note in Ode]] from Viscount's saddle bags
 - Searched his rooms, found chest containing [[Pan Flute]]
 - Pan Flute was rigged with gem stones, lenses, and mechanical contraptions
 - Not intrinsically magical, but resonates with magic

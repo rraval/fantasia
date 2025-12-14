@@ -9,6 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/rraval/fantasia",
+      RSS: "/index.xml",
+      Sitemap: "/sitemap.xml",
     },
   }),
 }

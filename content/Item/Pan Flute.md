@@ -24,7 +24,7 @@ The Pan Flute is a musical instrument found in [[Viscount Bridgerton]]'s chest, 
 ## Chronology
 
 **Discovery:**
-- Party stole [[Ciphered Note in Ode]] from [[Viscount Bridgerton]]'s saddle bags
+- Party stole [[Item/Ciphered Note in Ode]] from [[Viscount Bridgerton]]'s saddle bags
 - Searched Viscount's rooms
 - Found chest containing Pan Flute
 - Examined and found it rigged with gems, lenses, mechanical parts

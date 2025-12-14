@@ -33,7 +33,7 @@ The Grove is a halfling settlement near [[Ode]] where [[David Blane]]'s wedding 
 - Party negotiated with goblin boss for info
 - After rescuing David, party returned for shotgun wedding
 - [[Cory]] officiated the wedding
-- Party received [[The Blane Map]] as reward
+- Party received [[Item/The Blane Map]] as reward
 - Party warned halflings about potential goblin attack
 
 ## Inhabitants

@@ -53,7 +53,7 @@ David Blane is a halfling who repeatedly ran away from his own wedding, eventual
 - Party left David tied up
 - Returned quickly to The Grove
 - [[Cory]] officiated shotgun wedding
-- Party received [[The Blane Map]] as reward for returning and marrying David
+- Party received [[Item/The Blane Map]] as reward for returning and marrying David
 - Party warned halflings about potential goblin attack
 
 ## Connections
