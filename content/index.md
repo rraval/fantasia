@@ -6,18 +6,24 @@ Fantasia is a D&D 5e campaign inspired by popular western music. Season 1 played
 
 ## Catch Up
 
-After [[Piano Man]] stabbed himself with the [[Knife of Transposition]] to foil [[The Coup]], the party escaped [[Tensegrity]] with [[Maurice]]. He revealed they're not from this verse and offered a deal: destroy the [[Forces|instruments]], break the [[Cantum cycle]], and return home. Behind them, [[Tensegrity]] collapsed as [[Uptown Girl]] seized control and [[Paradise City]] disintegrated.
+After escaping [[Tensegrity]], [[Maurice]] revealed the party isn't from this verse. He offered a deal: destroy the [[Forces|instruments]], break the [[Cantum cycle]], and return home. The [[Knife of Transposition]] pulled them inside where half of [[Piano Man]] played a [[Tumbi]] and sang [[Yesterday]]. After [[Helia]] accidentally destroyed the instrument, he tried recruiting them as champions. They refused. He dismissed them to musical elevators operating on major scale intervals - navigating the whole-whole-half-whole-whole-whole-half pattern through seven levels.
 
-In Maurice's wagon, the glowing [[Knife of Transposition]] pulled the party inside. They found half of the [[Piano Man]] playing a [[Tumbi]] and singing [[Yesterday]]. After [[Helia]] accidentally destroyed the instrument, he tried recruiting them as champions. They refused. He dismissed them to musical elevators operating on major scale intervals - the party navigated the whole-whole-half-whole-whole-whole-half pattern through seven levels, bypassing lovingly crafted encounters.
+They emerged in the [[Shadowfell]], trekking toward a Gothic Baroque spire surrounded by a lava moat. They discovered 36 camps arranged in a circle - delegates from the [[36 Chambers]], faction remnants of the [[War Against Hippity-Hops]] that occurred hundreds of years ago, gathered for a meeting. After a failed stealth approach, dark elf guards brought them to [[Flo|Master Flo]], a young leader who has consolidated seven chambers and arranged this meeting. Impressed by their honesty, Flo brought them into the castle as part of their entourage.
 
-Now they stand in the [[Shadowfell]], a mountainous region of perpetual twilight. A distant spire smells of brimstone. Behind them looms a massive clocktower they've ignored. As they trek toward the spire, the wind whistles the tune of [[There It Go]] (the Whistle Song).
+At a Roman Senate-style meeting, Flo invoked "the mystery" - an ancient hip-hop tradition calling for a binding champion battle. The opposition accepted, declaring the challenge would be chess boxing. The party faced a gigantic toad creature, alternating between speed chess and physical combat. Through strategic play and teamwork, they achieved checkmate and won the challenge for Master Flo's faction.
 
-> [!info] Additional Reading
-> For detailed accounts of these events, see [[Session/30 - Main 26]] (The Coup and Piano Man's sacrifice), [[Session/31 - Main 27]] (escaping with Maurice and his revelation), and [[Session/32 - Main 28]] (inside the Knife, musical elevators, and arrival in the Shadowfell).
+> [!info] **Detailed Session Notes**:
+> - [[32 - Main 28]]
+> - [[33 - Main 29]]
 
-## Mechanics
+## Artifacts in Possession
 
-### Core Universe Principles
+- **[[Knife of Transposition]]**: Powered by souls, allows transposition between planes (good aligned souls up, evil aligned souls down). Currently inhabited by half of piano man soul.
+- **[[Dress of Love]]**: Makes creatures believe the wearer is "the person they love the most". Powered by moonlight; effectiveness diminishes with repeated use.
+- **[[Moon Orb]]**: Reservoir of moonlight. Can act as a lens.
+- **Chess Pieces**: A bishop, rook, and queen retained for future battles.
+
+## Core Mechanics
 
 - **Musical Reality**: This world was created through music. The fundamental structure of reality follows musical principles - ages cycle like movements, cosmic forces operate as an orchestra, and songs can manifest as prophetic events.
 - **[[The Forces|The Three Forces]]**: Cosmic cycle rotating through ages - [[Forces#Percussion|Percussion]] (war/chaos), [[Forces#Strings|Strings]] (order/diplomacy), and [[Forces#Wind|Wind]] (change/transformation). Each age has a champion. Currently transitioning from Piano Man's Strings age to the prophesied Wind age.
@@ -25,9 +31,4 @@ Now they stand in the [[Shadowfell]], a mountainous region of perpetual twilight
 - **[[Orchestral Plane]]**: A dream plane manifesting as a literal orchestra hall. Its physical state reflects cosmic order - the Strings section is weakening, Percussion is damaged with planar rips, and Winds stands pristine and ready.
 - **[[The Binding]]**: Historical event where [[Piano Man]] united seven nations and used [[Chords of Power]] to bind [[Belle]], separating the seven planes. Each plane received one Chord to maintain the separation.
 - **The Verses**: This universe is one of many parallel realities. The party members are not from "this verse" and seek a way home.
-
-### Key Items and Abilities
-
 - **Transposition**: Fundamental property of interplanar travel where time flows at different rates between planes (e.g., 1 second on the Material Plane = 2 seconds in the Feywild). Known methods: [[Knife of Transposition]] (uses soul-infused gems), [[Instrument Panel]] (Tinkers Guild device), and natural planar rips.
-- **[[Dress of Love]]**: Makes creatures believe the wearer is "the person they love the most". Powered by moonlight; effectiveness diminishes with repeated use.
-- **[[Moon Orb]]**: Reservoir of moonlight. Can act as a lens.

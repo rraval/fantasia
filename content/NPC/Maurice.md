@@ -80,7 +80,7 @@ Maurice, also known as "The Joker", is an immortal conductor who bound the [[Can
 - Very happy that [[Piano Man|Man of Strings]] had been captured
 - Traded secrets with the party:
   - [[Helia]]'s secret: "She knew that she was guilty when she plead not guilty"
-  - Maurice's secret: "Speaking of that trial: do you ever wonder why you have so few memories of this place? Why you know so little? The war against hippity hops did happen!"
+  - Maurice's secret: "Speaking of that trial: do you ever wonder why you have so few memories of this place? Why you know so little? The [[War Against Hippity-Hops]] did happen!"
 - Revealed party members are not from this verse
 - Made his deal: destroy the instruments to break the cycle and return home
 - Confirmed he is the conductor who bound the [[Cantum cycle]]
