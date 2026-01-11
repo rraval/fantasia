@@ -59,7 +59,7 @@ Master Flo explained the [[36 Chambers]] are remnants of the [[War Against Hippi
 
 Master Flo brought the party into the castle as part of their entourage for a meeting in a coliseum room. The opposing faction - a mixed group led by a handsome devil - argued for peace rather than war. Feeling their diplomatic efforts fail, Master Flo invoked "the mystery" - an ancient hip-hop tradition calling for a binding champion battle.
 
-The opposition accepted and declared chess boxing as the format. The party served as champions, facing a gigantic toad creature with alternating rounds of speed chess and physical combat. Chess pieces captured granted combat buffs, while checking the king stunned the toad. Through strategic play, the party achieved checkmate and won the challenge for Master Flo's faction, retaining a bishop, rook, and queen for future battles.
+The opposition accepted and declared [[Da Mystery of Chess Boxin|chess boxing]] as the format. The party served as champions, facing a gigantic toad creature with alternating rounds of speed chess and physical combat. Chess pieces captured granted combat buffs, while checking the king stunned the toad. Through strategic play, the party achieved checkmate and won the challenge for Master Flo's faction, retaining a bishop, rook, and queen for future battles.
 
 ## Connections
 

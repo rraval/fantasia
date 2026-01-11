@@ -28,7 +28,7 @@ The chambers are divided between two major factions:
 
 ## The Mystery
 
-The chambers follow an ancient hip-hop tradition called "the mystery" - a binding battle system where disputes are resolved through champion combat. When Master Flo invoked this tradition at a castle meeting, the opposition accepted and declared the challenge would be chess boxing, a format alternating between speed chess and physical combat.
+The chambers follow an ancient hip-hop tradition called "the mystery" - a binding battle system where disputes are resolved through champion combat. When Master Flo invoked this tradition at a castle meeting, the opposition accepted and declared the challenge would be [[Da Mystery of Chess Boxin|chess boxing]], a format alternating between speed chess and physical combat.
 
 This tradition serves as both a conflict resolution method and a political tool for gaining influence among the chambers.
 

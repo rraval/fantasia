@@ -10,7 +10,7 @@ After escaping [[Tensegrity]], [[Maurice]] revealed the party isn't from this ve
 
 They emerged in the [[Shadowfell]], trekking toward a Gothic Baroque spire surrounded by a lava moat. They discovered 36 camps arranged in a circle - delegates from the [[36 Chambers]], faction remnants of the [[War Against Hippity-Hops]] that occurred hundreds of years ago, gathered for a meeting. After a failed stealth approach, dark elf guards brought them to [[Flo|Master Flo]], a young leader who has consolidated seven chambers and arranged this meeting. Impressed by their honesty, Flo brought them into the castle as part of their entourage.
 
-At a Roman Senate-style meeting, Flo invoked "the mystery" - an ancient hip-hop tradition calling for a binding champion battle. The opposition accepted, declaring the challenge would be chess boxing. The party faced a gigantic toad creature, alternating between speed chess and physical combat. Through strategic play and teamwork, they achieved checkmate and won the challenge for Master Flo's faction.
+At a Roman Senate-style meeting, Flo invoked "the mystery" - an ancient hip-hop tradition calling for a binding champion battle. The opposition accepted, declaring the challenge would be [[Da Mystery of Chess Boxin|chess boxing]]. The party faced a gigantic toad creature, alternating between speed chess and physical combat. Through strategic play and teamwork, they achieved checkmate and won the challenge for Master Flo's faction.
 
 > [!info] **Detailed Session Notes**:
 > - [[32 - Main 28]]

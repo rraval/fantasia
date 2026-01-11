@@ -12,7 +12,7 @@ The war occurred before [[Piano Man]]'s rise to power and the establishment of t
 
 The hip-hop tradition includes:
 
-**The Mystery:** An ancient practice where disputes are resolved through champion combat. When invoked, both parties are bound to accept the challenge. The specific format (such as chess boxing) is declared by the accepting party.
+**The Mystery:** An ancient practice where disputes are resolved through champion combat. When invoked, both parties are bound to accept the challenge. The specific format (such as [[Da Mystery of Chess Boxin|chess boxing]]) is declared by the accepting party.
 
 **Chamber Organization:** The 36 chambers maintain distinct identities through banners, camps, and leadership structures. Each chamber preserves its own martial and cultural traditions.
 

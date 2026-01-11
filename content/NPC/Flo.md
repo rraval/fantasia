@@ -9,7 +9,7 @@ Flo is a young dark elf leader in the [[Shadowfell]] who has consolidated seven 
 
 Flo appears as a young, stressed dark elf in their late teens. Despite their youth, they carry the weight of leadership and the ambition to unite the fractured chambers. They lead a faction seeking to "rise up and restore the honor that was stolen" during the [[War Against Hippity-Hops]].
 
-Flo arranged a meeting at the Gothic Baroque castle, bringing delegates from all 36 chambers together for negotiations. When diplomatic efforts failed to sway the opposing faction, Flo demonstrated strategic thinking by invoking "the mystery" - an ancient hip-hop tradition that calls for a binding battle with champions.
+Flo arranged a meeting at the Gothic Baroque castle, bringing delegates from all 36 chambers together for negotiations. When diplomatic efforts failed to sway the opposing faction, Flo demonstrated strategic thinking by invoking "the mystery" - an ancient hip-hop tradition that calls for a binding battle with champions. The opposition accepted and declared the challenge would be [[Da Mystery of Chess Boxin|chess boxing]].
 
 ## Chronology
 
@@ -23,7 +23,7 @@ The party attempted a failed stealth approach to one of Flo's dark elf camps. Th
 
 Flo brought the party into the Gothic Baroque castle as part of their entourage for a meeting in a coliseum. The opposing faction - a mixed group of elves, dark elves, dwarves, bone creatures, and devils led by a handsome devil - argued for peace rather than war, jeering at Flo's faction.
 
-Feeling their words falling on deaf ears, Master Flo invoked "the mystery." The opposition accepted and declared the challenge would be chess boxing. With the party as their champions and Flo serving as their corner person, they faced a gigantic toad creature. Through alternating rounds of speed chess and physical combat, the party achieved victory, winning the challenge for Master Flo's faction.
+Feeling their words falling on deaf ears, Master Flo invoked "the mystery." The opposition accepted and declared the challenge would be [[Da Mystery of Chess Boxin|chess boxing]]. With the party as their champions and Flo serving as their corner person, they faced a gigantic toad creature. Through alternating rounds of speed chess and physical combat, the party achieved victory, winning the challenge for Master Flo's faction.
 
 ## Connections
 
