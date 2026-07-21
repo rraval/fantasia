@@ -95,6 +95,15 @@ The Synth is an antagonist faction founded by [[Maurice]] but which has since se
 - They have since separated in vision from Maurice
 - Maurice seeks escape from the Cantum cycle
 
+### The Fifth Prophet in the Shadowfell
+
+- In the [[Shadowfell]], a "handsome devil" leading the faction opposed to [[Flo|Master Flo]] revealed himself as the Fifth Prophet, leader of The Synth (see [[34 - Main 30]])
+- Claimed he could not lie; offered to sell the party the betrayal of a "certain friend" (deduced to be [[Maurice]]) in exchange for their loyalty and a favor
+- Admitted to experimenting with the instruments stolen from [[Lyric]] to "understand the truths of the universe" and "augment various parts of my army," and to seeking "power over the musical gods"
+- The devil form was a decoy: [[Helia Oriela|Helia]]'s Moonbeam reverted it to a smaller, mechanically-enhanced humanoid construct, and the true devil's "skin" separated and fled
+- The battle featured Synth war machines - a giant slow-time-casting spider construct and cannon-and-helm constructs, all rigged with self-destruct sequences
+- The party recovered a set of [[Pan Flute|pan pipes]] from inside one of the wrecked constructs
+
 ## Connections
 
 - Founded by [[Maurice]] but now pursuing different goals

@@ -25,6 +25,12 @@ Flo brought the party into the Gothic Baroque castle as part of their entourage 
 
 Feeling their words falling on deaf ears, Master Flo invoked "the mystery." The opposition accepted and declared the challenge would be [[Da Mystery of Chess Boxin|chess boxing]]. With the party as their champions and Flo serving as their corner person, they faced a gigantic toad creature. Through alternating rounds of speed chess and physical combat, the party achieved victory, winning the challenge for Master Flo's faction.
 
+### The Celebration and the Betrayal Trap
+
+After the victory, the handsome devil and the leaders of the remaining 29 chambers knelt to Flo, who threw a grand celebration to honour the champions. The devil, however, revealed himself as [[The Synth|the Fifth Prophet]] and lured the party to the clocktower, stalling them while a massive battle erupted below between the 29 opposing clans and hundreds of demons - a trap.
+
+During the fighting, Flo rallied his forces with a chorus ([[Wind of Change]]) of "the wind of change" and "children of tomorrow," dropping the music's pitch to create a 40-foot bubble of slowed time around his banner. The party fought their way to him but discovered the slow-time effect was actually an enemy spell cast by a giant spider construct. In the chaos Flo was struck by the spider's beam and paralyzed. After the party destroyed the spider and its constructs, [[Louis Orrai|Louis]] treated Flo, who recovered and began moving again. See [[34 - Main 30]].
+
 ## Connections
 
 - Leader of seven consolidated [[36 Chambers]]

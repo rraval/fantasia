@@ -12,9 +12,12 @@ They emerged in the [[Shadowfell]], trekking toward a Gothic Baroque spire surro
 
 At a Roman Senate-style meeting, Flo invoked "the mystery" - an ancient hip-hop tradition calling for a binding champion battle. The opposition accepted, declaring the challenge would be [[Da Mystery of Chess Boxin|chess boxing]]. The party faced a gigantic toad creature, alternating between speed chess and physical combat. Through strategic play and teamwork, they achieved checkmate and won the challenge for Master Flo's faction.
 
+After the victory, the handsome devil leading the opposing chambers revealed himself as [[The Synth|the Fifth Prophet]] and lured the party to a clocktower, stalling them while a massive battle erupted below - a trap. He offered to sell them the betrayal of [[Maurice]], admitting he had been experimenting with the instruments from [[Lyric]] to augment his army and seize "power over the musical gods." When [[Helia|Helia]]'s Moonbeam exposed his devil form as a mechanical construct decoy, the party leapt from the tower and charged into the battle. They helped [[Flo|Master Flo]] turn the tide - his chorus of [[Wind of Change|"the wind of change"]] conjuring a bubble of slowed time - and destroyed a giant spider construct and its self-destructing machines, recovering a set of [[Pan Flute|pan pipes]] before a final explosion ended the session.
+
 > [!info] **Detailed Session Notes**:
 > - [[32 - Main 28]]
 > - [[33 - Main 29]]
+> - [[34 - Main 30]]
 
 ## Artifacts in Possession
 
@@ -22,6 +25,9 @@ At a Roman Senate-style meeting, Flo invoked "the mystery" - an ancient hip-hop 
 - **[[Dress of Love]]**: Makes creatures believe the wearer is "the person they love the most". Powered by moonlight; effectiveness diminishes with repeated use.
 - **[[Moon Orb]]**: Reservoir of moonlight. Can act as a lens.
 - **Chess Pieces**: A bishop, rook, and queen retained for future battles.
+- **The Devil's Whip**: Physically mended after being cut, but its magic (and much of its restraining property) is lost.
+- **Spider-Construct Lances**: Two intact legs salvaged from a destroyed [[The Synth|Synth]] spider construct, usable as powerful lances.
+- **[[Pan Flute|Pan Pipes]]**: Pulled from a wrecked Synth construct in the [[Shadowfell]].
 
 ## Core Mechanics
 
